@@ -1,0 +1,5 @@
+{
+  "name": "HnH Photo Restoration",
+  "description": "Bilingual (VN/EN) photo restoration app using Gemini AI for high-quality image cleanup, colorization, and restoration.",
+  "requestFramePermissions": []
+}
